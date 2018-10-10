@@ -22,7 +22,6 @@ requirements:
   run:
     - python
     - requests >=2.3.0
-    - wsgiref  # [py2k]
 
 test:
   imports:
